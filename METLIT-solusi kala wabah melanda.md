@@ -10,6 +10,12 @@ affiliation: "Institut Teknologi Bandung"
 
 Oleh: Dasapta Erwin Irawan (ORCID)
 
+## Diagram saya
+
+Berikut ini adalah diagram yang saya buat untuk menggambarkan usulan solusi penyelesaian tugas akhir mahasiswa di saat dunia sedang melawan penyebaran Covid 19. Penjelasannya ada di bagian bawah.
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/dasaptaerwin/49750837618/" title="pemikiran bagi mahasiswa kala Covid melanda"><img src="https://live.staticflickr.com/65535/49750837618_5618ac4850_b.jpg" alt="pemikiran bagi mahasiswa kala Covid melanda" width="1024" height="724"></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ## Ketika wabah melanda
 
 Saat ini semua orang terdampak [wabah pandemi virus Corona](https://www.worldometers.info/coronavirus/). Tidak terkecuali dosen, peneliti, dan mahasiswa. Masalahnya bukan hanya saat belajar mengajar, tetapi juga saat mahasiswa saat ini sedang menyelesaikan tugas akhirnya. 
@@ -34,5 +40,10 @@ Dalam artikel blog ini, saya menyampaikan beberapa hal yang mungkin bisa jadi so
 
 ### Fleksibilitas
 
-1. **Fleksibilitas dalam hal data**: Dalam data, pembimbing dan perguruan tinggi perlu punya fleksibilitas. Saat tidak ada pandemi, standar yang diminta biasanya adalah data primer, yaitu data yang diambil sendiri oleh mahasiswa sesuai dengan proposal yang telah dibuatnya. Saat aktivitasi di luar sangat dibatasi seperti sekarang, maka akan sangat sempit juga kesempatan bagi mahasiswa untuk mengambil data ke lapangan. Bagi mahasiswa yang tenggat lulusnya masih lama (misal tahun depan) ini bisa diatasi dengan menjadwal ulang program pengambilan data. Namun demikian tetap saja, mahasiswa dan pembimbingnya perlu **Rencana B** seandainya kondisi darurat Covid belum akan dihentikan hingga tengah tahun ini.
-2. **Fleksibilitas dalam pembimbingan**: Membimbing dari jauh pasti tidak bisa disamakan dengan membimbing secara langsung. Khususnya untuk bidang ilmu kebumian. Kami biasanya bekerja dengan peta. Beberapa kesalahan halus dalam penggambaran peta dapat terlewat kalau tidak dilihat secara langsung petanya. Untuk ini kita bisa mencari jalan tengah dengan mengirimkan peta dari rumah atau tempat kos mahasiswa ke rumah dosen pembimbing melalui jasa ojek online. Tapi bagaimana dengan mahasiswa yang telah pulang kampung. Mereka memutuskan pulang kampung untuk mengurangi biaya hidup, juga biasanya diminta pulang oleh orang tuanya agar bisa diawasi secara langsung. Jadi jelas perlu ada fleksibilitas. Beberapa kesalahan kecil harus disadari bisa saja terlewat, bahkan saat sidang dilaksanakan. Dosen pembimbing dapat mengusulkan kepada ketua sidang beberapa hal yang sifatnya *disclaimer*. Akan lebih bagus kalau Program Studi secara komunal menentukan beberapa kesalahan yang dapat diterima atau dikecualikan ini. 
+**Fleksibilitas dalam hal data**
+Dalam data, pembimbing dan perguruan tinggi perlu punya fleksibilitas. Saat tidak ada pandemi, standar yang diminta biasanya adalah data primer, yaitu data yang diambil sendiri oleh mahasiswa sesuai dengan proposal yang telah dibuatnya. Saat aktivitasi di luar sangat dibatasi seperti sekarang, maka akan sangat sempit juga kesempatan bagi mahasiswa untuk mengambil data ke lapangan. Bagi mahasiswa yang tenggat lulusnya masih lama (misal tahun depan) ini bisa diatasi dengan menjadwal ulang program pengambilan data. Namun demikian tetap saja, mahasiswa dan pembimbingnya perlu **Rencana B** seandainya kondisi darurat Covid belum akan dihentikan hingga tengah tahun ini.
+
+Rencana B yang dimaksud adalah menggunakan data sekunder (data yang diambil orang lain) sebagai data pelengkap atau data utama penelitiannya. Mengenai porsi antara data primer dan data sekunder ini memang akan sangat subyektif, karena itu dibutuhkan fleksibilitas pembimbing. Sangat jamak bagi seorang mahasiswa geologi untuk menggunakan data yang diambil oleh orang lain, sebuah perusahaan pemboran, atau perusahaan minyak, misal: data pemboran, data seismik atau hasil survey geofisika lainnya, data geokimia, dll.
+
+**Fleksibilitas dalam pembimbingan**
+Membimbing dari jauh pasti tidak bisa disamakan dengan membimbing secara langsung. Khususnya untuk bidang ilmu kebumian. Kami biasanya bekerja dengan peta. Beberapa kesalahan halus dalam penggambaran peta dapat terlewat kalau tidak dilihat secara langsung petanya. Untuk ini kita bisa mencari jalan tengah dengan mengirimkan peta dari rumah atau tempat kos mahasiswa ke rumah dosen pembimbing melalui jasa ojek online. Tapi bagaimana dengan mahasiswa yang telah pulang kampung. Mereka memutuskan pulang kampung untuk mengurangi biaya hidup, juga biasanya diminta pulang oleh orang tuanya agar bisa diawasi secara langsung. Jadi jelas perlu ada fleksibilitas. Beberapa kesalahan kecil harus disadari bisa saja terlewat, bahkan saat sidang dilaksanakan. Dosen pembimbing dapat mengusulkan kepada ketua sidang beberapa hal yang sifatnya *disclaimer*. Akan lebih bagus kalau Program Studi secara komunal menentukan beberapa kesalahan yang dapat diterima atau dikecualikan ini. 
