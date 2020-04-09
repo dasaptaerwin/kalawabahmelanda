@@ -18,7 +18,7 @@ Berikut ini adalah diagram yang saya buat untuk menggambarkan usulan solusi peny
 
 Saat ini semua orang terdampak [wabah pandemi virus Corona](https://www.worldometers.info/coronavirus/). Tidak terkecuali dosen, peneliti, dan mahasiswa. Masalahnya bukan hanya saat belajar mengajar, tetapi juga saat mahasiswa saat ini sedang menyelesaikan tugas akhirnya. 
 
-Pandemi Covid ini pastinya akan diingat oleh dunia dan terekam dalam sejarah sebagai pandemi terbesar setelah [Pandemi Influenza Tahun 1918](https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/pdfs/1918-pandemic-webinar.pdf). [Infografik rekaman pandemik dari Lancet](https://info.thelancet.com/pandemic-flu-100) ini bagus untuk dilihat agar kita belajar dari pandemi sebelumnya. 
+Pandemi Covid ini pastinya akan diingat oleh dunia dan terekam dalam sejarah sebagai pandemi terbesar setelah [Pandemi Influenza Tahun 1918](https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/pdfs/1918-pandemic-webinar.pdf). [Infografik rekaman pandemik dari Lancet](https://info.thelancet.com/pandemic-flu-100) ini bagus untuk dilihat agar kita belajar dari pandemi sebelumnya (simak juga [infografis BIG ini](https://covid19.big.go.id/)). 
 
 ![Google Photos/dasaptaerwin, Lisensi CC-0](https://lh3.googleusercontent.com/4SoWTMx4kUwOTW1aeJkATJ0Ivyk0_fdXfWFK4i4HMZLg89SsNssc17GPQ-9rCdYvKTffP5WTnlpZsbDJwn_QY186eORaHcLNPJoGgXiEfgltqYpNgQ4t2D-N7uhEqbFlas1Y31V5IQ=w2400)
 
