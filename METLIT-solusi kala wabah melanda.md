@@ -16,7 +16,9 @@ Saat ini semua orang terdampak [wabah pandemi virus Corona](https://www.worldome
 
 Pandemi Covid ini pastinya akan diingat oleh dunia dan terekam dalam sejarah sebagai pandemi terbesar setelah [Pandemi Influenza Tahun 1918](https://www.cdc.gov/flu/pandemic-resources/1918-commemoration/pdfs/1918-pandemic-webinar.pdf). [Infografik rekaman pandemik dari Lancet](https://info.thelancet.com/pandemic-flu-100) ini bagus untuk dilihat agar kita belajar dari pandemi sebelumnya. 
 
-![](https://photos.app.goo.gl/ZxeHGhf7HCHu7P5a8)
+![Google Photos/dasaptaerwin, Lisensi CC-0](https://lh3.googleusercontent.com/4SoWTMx4kUwOTW1aeJkATJ0Ivyk0_fdXfWFK4i4HMZLg89SsNssc17GPQ-9rCdYvKTffP5WTnlpZsbDJwn_QY186eORaHcLNPJoGgXiEfgltqYpNgQ4t2D-N7uhEqbFlas1Y31V5IQ=w2400)
+
+[Google Photos/dasaptaerwin, Lisensi CC-0](https://lh3.googleusercontent.com/4SoWTMx4kUwOTW1aeJkATJ0Ivyk0_fdXfWFK4i4HMZLg89SsNssc17GPQ-9rCdYvKTffP5WTnlpZsbDJwn_QY186eORaHcLNPJoGgXiEfgltqYpNgQ4t2D-N7uhEqbFlas1Y31V5IQ=w2400)
 
 Beberapa yang saya sampaikan di bawah ini tidak bersifat generik yang dapat diaplikasikan pada semua bidang ilmu. Beberapa perguruan tinggi mungkin memiliki regulasi yang kaku, beberapa lainnya mungkin lebih fleksibel. Pembimbing sendiri memiliki pemikiran yang tidak seragam. Jadi bagi para mahasiswa yang membaca blog saya ini, pastikan anda berkomunikasi dengan pembimbing anda, karena bisa jadi beliau tidak setuju dengan usulan saya ini. :)
 
