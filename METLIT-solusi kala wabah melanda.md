@@ -4,15 +4,13 @@ author: Dasapta Erwin Irawan
 affiliation: "Institut Teknologi Bandung"
 ---
 
-
-
 # Solusi kala wabah melanda
 
 Oleh: Dasapta Erwin Irawan (ORCID)
 
 ## Diagram saya
 
-Berikut ini adalah diagram yang saya buat untuk menggambarkan usulan solusi penyelesaian tugas akhir mahasiswa di saat dunia sedang melawan penyebaran Covid 19. Penjelasannya ada di bagian bawah.
+Berikut ini adalah diagram yang saya buat untuk menggambarkan usulan solusi penyelesaian tugas akhir mahasiswa di saat dunia sedang melawan penyebaran Covid 19. Penjelasannya ada di bagian bawah. [Naskah ini saya tulis menggunakan Markdown yang disimpan di sini](https://github.com/dasaptaerwin/kalawabahmelanda).
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/dasaptaerwin/49750837618/" title="pemikiran bagi mahasiswa kala Covid melanda"><img src="https://live.staticflickr.com/65535/49750837618_5618ac4850_b.jpg" alt="pemikiran bagi mahasiswa kala Covid melanda" width="1024" height="724"></a><script async="" src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
@@ -40,10 +38,16 @@ Dalam artikel blog ini, saya menyampaikan beberapa hal yang mungkin bisa jadi so
 
 ### Fleksibilitas
 
-**Fleksibilitas dalam hal data**
+**Fleksibilitas dalam hal jenis dan penggunaan data**
 Dalam data, pembimbing dan perguruan tinggi perlu punya fleksibilitas. Saat tidak ada pandemi, standar yang diminta biasanya adalah data primer, yaitu data yang diambil sendiri oleh mahasiswa sesuai dengan proposal yang telah dibuatnya. Saat aktivitasi di luar sangat dibatasi seperti sekarang, maka akan sangat sempit juga kesempatan bagi mahasiswa untuk mengambil data ke lapangan. Bagi mahasiswa yang tenggat lulusnya masih lama (misal tahun depan) ini bisa diatasi dengan menjadwal ulang program pengambilan data. Namun demikian tetap saja, mahasiswa dan pembimbingnya perlu **Rencana B** seandainya kondisi darurat Covid belum akan dihentikan hingga tengah tahun ini.
 
 Rencana B yang dimaksud adalah menggunakan data sekunder (data yang diambil orang lain) sebagai data pelengkap atau data utama penelitiannya. Mengenai porsi antara data primer dan data sekunder ini memang akan sangat subyektif, karena itu dibutuhkan fleksibilitas pembimbing. Sangat jamak bagi seorang mahasiswa geologi untuk menggunakan data yang diambil oleh orang lain, sebuah perusahaan pemboran, atau perusahaan minyak, misal: data pemboran, data seismik atau hasil survey geofisika lainnya, data geokimia, dll.
 
+Bila penelitian memang baru dimulai, maka pastikan anda berkonsultasi dengan pembimbing untuk mengubah proposal pada bagian metode. Data primer diganti dengan data sekunder. Tentunya anda perlu mencari dulu apakah data sekunder tersedia atau tidak untuk topik penelitian anda. Kasus terburuknya adalah tidak ada, maka mau tidak mau memang topik harus diubah atau dimodifikasi agar dapat memanfaatkan data sekunder yang tersedia. 
+
 **Fleksibilitas dalam pembimbingan**
 Membimbing dari jauh pasti tidak bisa disamakan dengan membimbing secara langsung. Khususnya untuk bidang ilmu kebumian. Kami biasanya bekerja dengan peta. Beberapa kesalahan halus dalam penggambaran peta dapat terlewat kalau tidak dilihat secara langsung petanya. Untuk ini kita bisa mencari jalan tengah dengan mengirimkan peta dari rumah atau tempat kos mahasiswa ke rumah dosen pembimbing melalui jasa ojek online. Tapi bagaimana dengan mahasiswa yang telah pulang kampung. Mereka memutuskan pulang kampung untuk mengurangi biaya hidup, juga biasanya diminta pulang oleh orang tuanya agar bisa diawasi secara langsung. Jadi jelas perlu ada fleksibilitas. Beberapa kesalahan kecil harus disadari bisa saja terlewat, bahkan saat sidang dilaksanakan. Dosen pembimbing dapat mengusulkan kepada ketua sidang beberapa hal yang sifatnya *disclaimer*. Akan lebih bagus kalau Program Studi secara komunal menentukan beberapa kesalahan yang dapat diterima atau dikecualikan ini. 
+
+`Selanjutnya saya akan bercerita tentang kreativitas mahasiswa, keterampilan yang dibutuhkan untuk mencari data sekunder.  `
+
+`Pada bagian akhir saya juga akan menekankan pentingnya repositori kampus untuk mengunggah dokumen tugas akhir secara lengkap. Salah satu manfaatnya adalah pada kondisi darurat seperti ini. Kalau banyak data mentah diunggah lengkap, maka para peneliti, tidak hanya pada saat ada pandemi ekstrim seperti sekarang, akan sangat terbantu. Ilmupun menjadi lebih cepat berkembang karena dipikirkan oleh banyak kepala. `
