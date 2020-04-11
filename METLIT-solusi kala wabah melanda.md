@@ -86,4 +86,16 @@ Saat dokumen laporan dan makalah ilmiah sudah bergeser ke arah dokumen digital, 
 
 Saat ini telah banyak didengungkan ide tentang data citation. Singkatnya, data yang dihasilkan dalam suatu riset harus dapat diolah orang lain dengan cara menyitirnya. Jadi antara data dan laporan dianggap sebagai dokumen yang terpisah tapi harus terhubung. Pengguna dapat menyitir dokumen laporan atau makalah ilmiah kalau yang dibutuhkan adalah hasil telaahnya, tapi mereka juga dapat menyitir datanya saja ingin menggunakannya untuk kebutuhannya. 
 
+> What is data citation? Data citation refers to the practice of providing a reference to data in the same way as researchers routinely provide a bibliographic reference to outputs such as journal articles, reports and conference papers. Citing data is now recognised as one of the key practices leading to recognition of data as a primary research output ([ANDS.org](https://www.ands.org.au/working-with-data/citation-and-identifiers/data-citation)).
+
+**cite**
+
+- https://ropensci.github.io/reproducibility-guide/sections/introduction/
+- https://hdsr.mitpress.mit.edu/pub/jduhd7og
+- https://reusabledata.org/
+- https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0213090
+- https://datascience.codata.org/articles/10.5334/dsj-2017-008/
+- https://data.research.cornell.edu/content/data-citation
+- https://www.usgs.gov/products/data-and-tools/data-management/data-citation
+
 `Pada bagian akhir saya juga akan menekankan pentingnya repositori kampus untuk mengunggah dokumen tugas akhir secara lengkap. Salah satu manfaatnya adalah pada kondisi darurat seperti ini. Kalau banyak data mentah diunggah lengkap, maka para peneliti, tidak hanya pada saat ada pandemi ekstrim seperti sekarang, akan sangat terbantu. Ilmupun menjadi lebih cepat berkembang karena dipikirkan oleh banyak kepala. `
