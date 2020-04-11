@@ -56,6 +56,8 @@ Terus terang saya belum bisa memberikan gambaran, karena kondisi di setiap pergu
 
 Selanjutnya saya akan bercerita tentang kreativitas mahasiswa, keterampilan yang dibutuhkan untuk mencari data sekunder. Kreativitas yang saya maksud adalah yang diinisiasi oleh insiatif. Jadi menurut saya, ini adalah kreativitas yang terarah. Bukan kreativitas yang tanpa tujuan :). Jadi **intinya insiatif sangat diperlukan dikala penelitian sedang terombang-ambing tidak menentu seperti sekarang ini**. Ditambah lagi, dalam kondisi seperti ini, saran dari dosen bisa sangat terbatas. dosen juga kan sama. Berikut ini adalah beberapa contoh kreativitas yang mungkin anda kerjakan. Selain yang saya sebutkan pasti ada yang lain, namanya juga kreativitas :).
 
+#### 3.2.1 Menganalisis
+
 - **Kalau data sudah ada**. Anda sudah dapat melakukan beberapa analisis seperti:  
   - **analisis deskriptif**. Misal anda punya beberapa data kuantitatif dari beberapa sampel yang anda ukur. Anda sudah bisa membuat tabel atau grafik sederhana untuk menampilkan nilai rata-rata, maksimum dan minimum. Bila sampel anda bisa dikategorikan (misal kategori sampel air tanah, kategori sampel air sungai, kategori sampel air hujan), maka anda bisa tampilkan sampel-sampel itu dengan warna yang berbeda agar anda mudah melacaknya. Kalau anda fasih menggunakan Ms Excel jangan lupa untuk mengunduh [Ms Excel Analysis Toolpak](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4). Saya bukan pegawai Microsoft, tapi di era saya masih pakai Office (terakhir versi 2003), saya senang sekali dengan fitur Add-in. Kalau anda belum pernah menggunakannya, bisa mampir ke sini. 
 
@@ -70,6 +72,18 @@ dan
   - Analisis _time series_. Bila data anda berupa data _time series_, anda dapat melakukan beberapa analisis awal. Bila anda pengguna Excel tutorial ini ([Carleton](https://serc.carleton.edu/hydromodules/steps/td1.html), [Exceltable](https://exceltable.com/en/analyses-reports/time-series-analysis)) sepertinya cocok, bila anda pengguna R, maka [buku daring dari Rob J. Hyndman](https://otexts.com/fpp2/) ini bisa dicoba.  
   - Analisis multivariabel. Bila data anda kuantitatif dan terdiri dari beberapa variabel yang diukur, akan bagus kalau dianalisis secara multivariabel, misal: cluster analysis (dengan [Excel](https://www.clusteranalysis4marketing.com/technical-aspects-cluster-analysis/how-to-run-cluster-analysis-in-excel/), [R](http://www.sthda.com/english/articles/25-clusteranalysis-in-r-practical-guide/), [Python](https://towardsdatascience.com/an-introduction-to-clustering-algorithms-in-python-123438574097)) atau [principal component analysis](dengan [excel](https://www.numxl.com/support/documentation/numxl/users-guide/factor-analysis/principal-component-analysis-pca), [R](http://www.sthda.com/english/articles/31-principal-component-methods-in-r-practical-guide/112-pca-principal-component-analysis-essentials/), [Python](https://www.geeksforgeeks.org/principal-component-analysis-with-python/)). 
 
-Sekarang kita bicara bagaimana kalau anda pada akhirnya harus menggunakan data sekunder, baik sebagai data utama atau sebagai data pendukung/pembanding. 
+#### 3.2.2 Mencari data sekunder
+
+** Kondisi data mentah saat ini**
+
+Sekarang kita bicara bagaimana kalau anda pada akhirnya harus menggunakan data sekunder, baik sebagai data utama atau sebagai data pendukung/pembanding. Untuk ini anda perlu mengetahui cara mencari data sekunder. Data sekunder yang saya maksud adalah data mentah, bukan data yang telah diolah. 
+
+Dulu sumber data sekunder bisa dari laporan riset atau makalah ilmiah. Seperti biasa dalam dokumen-dokumen itu akan ada bab tentang data. Masalahnya adalah apakah data tercantum secara jelas dalam dokumen, atau ada dalam lampiran atan appendiks berbentuk buku yang terpisah. Buku data kadang ada sebagai satu kesatuan dengan laporan, kadang tidak menyatu. Begitu pula dengan data yang ada dalam makalah ilmiah. Seringkali data hanya dimunculkan dalam bentuk tabel ringkasan statistik deskriptif, misal: hanya menampilkan angka maksimum, minimum, rata-rata, dst. Data yang seperti ini yang saya maksud sebagai data yang telah diolah. Jangan menggunakan data yang sudah diolah. 
+
+Saat dokumen laporan dan makalah ilmiah sudah bergeser ke arah dokumen digital, kondisinya bisa saja sama. Dokumen digital tidak menampilkan data mentah. Kalaupun ada, tampil dalam format PDF. Ini akan menyulitkan kita ketika akan mentabulasikannya. Kalau tidak terpaksa jangan pula memilih yang ini, kecuali anda bersedia mengetik ulang datanya. Begitu pula data yang bersifat spasial, seringkali tayang sebagai peta dalam format PDF, JPG, PNG. Kondisi seperti ini juga menyulitkan, karena kita akan perlu mendigitasi ulang peta tersebut. Istilah bekennya adalah _non-reproducible_ atau tidak dapat dipakai ulang (dengan mudah).
+
+** Tentang sitasi data (data citation) **
+
+Sebelumnya saya akan bicara tentang struktur 
 
 `Pada bagian akhir saya juga akan menekankan pentingnya repositori kampus untuk mengunggah dokumen tugas akhir secara lengkap. Salah satu manfaatnya adalah pada kondisi darurat seperti ini. Kalau banyak data mentah diunggah lengkap, maka para peneliti, tidak hanya pada saat ada pandemi ekstrim seperti sekarang, akan sangat terbantu. Ilmupun menjadi lebih cepat berkembang karena dipikirkan oleh banyak kepala. `
