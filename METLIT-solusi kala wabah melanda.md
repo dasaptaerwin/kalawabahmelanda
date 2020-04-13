@@ -139,11 +139,11 @@ Anda juga dapat mencari dataset dengan menggunakan basis data saintifik, seperti
 
 Plot jumlah dataset  (`sum of datasets`) dan publikasi yang terkait dengan dataset tersebut (`sum of publications`) menurut Basis Data Dimensions
 
-![dimplot.pdf](dimplot.pdf)
+![dimplot.pdf](plots/dimplot.pdf)
 
 Plot jumlah dataset  (`sum of datasets`) dan publikasi yang menyitir dataset tersebut (`works cited`) menurut Basis Data Lens
 
-![lensplot.pdf](lensplot.pdf)
+![lensplot.pdf](plots/lensplot.pdf)
 
 **Pentingnya repositori**
 
