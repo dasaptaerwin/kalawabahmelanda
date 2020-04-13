@@ -86,14 +86,12 @@ Saat ini telah banyak didengungkan ide tentang data citation. Singkatnya, data y
 
 > What is data citation? Data citation refers to the practice of providing a reference to data in the same way as researchers routinely provide a bibliographic reference to outputs such as journal articles, reports and conference papers. Citing data is now recognised as one of the key practices leading to recognition of data as a primary research output ([ANDS.org](https://www.ands.org.au/working-with-data/citation-and-identifiers/data-citation)).
 
-Maksudnya adalah data seperti halnya makalah atau laporan, harus dapat disitasi. Agar itu dapat dilakukan, maka data perlu diunggah daring dengan metadata yang lengkap (data author, title, year, dst). Berkas yang diunggah harus dapat dibuka menggunakan perangkat yang umum dimiliki pengguna komputer. Data yang mudah ditemukan, mudah diakses, mudah dibuka dan dioperasikan, dengan metadata yang cukup lengkap, maka prinsip  (**Findable, Accessible, Interoperable, Reproducible**) dapat dipenuhi. Strategi mengelola data riset (research data management) dapat dibaca dalam slide di bawah ini.
+Maksudnya adalah data seperti halnya makalah atau laporan, harus dapat disitasi. Agar itu dapat dilakukan, maka data perlu diunggah daring dengan metadata yang lengkap (data author, title, year, dst). Berkas yang diunggah harus dapat dibuka menggunakan perangkat yang umum dimiliki pengguna komputer. Data yang mudah ditemukan, mudah diakses, mudah dibuka dan dioperasikan, dengan metadata yang cukup lengkap, maka prinsip  (**Findable, Accessible, Interoperable, Reproducible**) dapat dipenuhi. Strategi mengelola data riset (_research data management_) dapat dibaca dalam slide di bawah ini.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/rgEdhw3zFi260i" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/d_erwin_irawan/a-light-introduction-to-research-data-management" title="A light Introduction to Research Data Management" target="_blank">A light Introduction to Research Data Management</a> </strong> from <strong><a href="https://www.slideshare.net/d_erwin_irawan" target="_blank">Dasapta Erwin Irawan</a></strong> </div>
-
 Presentasi tentang berbagi data oleh Peter Murray-Rust.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LHkHGgYfaP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 Secara praktis, peneliti sebenarnya memiliki kewajiban untuk membuat datanya tersedia untuk publik, terutama untuk riset yang dibiayai dana publik. Ini sangat penting agar:
 
 - data dapat ditemukan untuk dipakai sebagai 
@@ -127,6 +125,17 @@ Berikut ini adalah beberapa repositori data sains sosial:
 - [Open ICPSR](https://www.openicpsr.org/openicpsr/)
 - [UK Data Service](http://reshare.ukdataservice.ac.uk/)
 
+
+
+**Mencari dataset melalui basis data saintifik**
+
+Anda juga dapat mencari dataset dengan menggunakan basis data saintifik, seperti Scopus dan Web of Science yang berbayar, atau kalau anda berminat bisa menggunakan yang gratis seperti [Dimensions](app.dimensions.ai) dan [Lens](lens.org). Anda bisa mengaktifkan filter dataset, kemudian bidang ilmu, selanjutnya anda persempit lagi dengan beberapa kata kunci, sebagai contoh adalah sebagai berikut.
+
+
+
+**Pentingnya repositori**
+
+Dari uraian pendek tentang _data citation_ di atas, maka jelaskan peran repositori sangat penting di sini. Saya tahu di dunia akademik, makalah yang terbit di jurnal top adalah yang utama dan mungkin itulah satu-satunya yang dipandang berharga. Tapi 
 
 **Bacaan tambahan**
 
