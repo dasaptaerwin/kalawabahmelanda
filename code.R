@@ -35,7 +35,7 @@ dimplot <- ggplot(data_dim, aes(x=Sum_data, y=Sum_pub)) +
   ggtitle("Sum of datasets vs sum of publications (Dimensions database)")
 print(dimplot)
 plotlydim <- ggplotly(dimplot)
-htmlwidgets::saveWidget(as_widget(plotlydim), selfcontained = TRUE, file = "plots/dimplot.html")
+htmlwidgets::saveWidget(as_widget(plotlydim), selfcontained = TRUE, file = "dimplot.html")
 
 
 ## making lensplot.pdf
