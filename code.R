@@ -17,7 +17,10 @@ head(data_dim)
 
 
 # Scatter plot
-ggplot(data_dim, aes(x=Sum_dataset, y=Sum_pub)) + geom_point()
+ggplot(data_dim, aes(x=Sum_dataset, y=Sum_pub)) + 
+  geom_point() 
 
+ggplot(data_lens, aes(x=Sum_data, y=Works_cited)) +
+  geom_point() 
 
 
