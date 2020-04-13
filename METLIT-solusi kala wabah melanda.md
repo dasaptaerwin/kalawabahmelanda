@@ -125,11 +125,19 @@ Berikut ini adalah beberapa repositori data sains sosial:
 - [Open ICPSR](https://www.openicpsr.org/openicpsr/)
 - [UK Data Service](http://reshare.ukdataservice.ac.uk/)
 
+Kalau anda sudah mencoba masuk ke repositori-repositori tersebut dan membuka salah satu datanya, maka akan terlihat data dibagikan dengan cara yang memudahkan pengguna (saya, anda, kita)  menggunakan ulang data tersebut. Tidak perlu mengetik ulang, memplot ulang dst. Prinsip `free to read` harus ditambah dengan prinsip `free to mine` (bebas untuk dieksplorasi). Prinsip ini dinyatakan oleh Peter Murray-Rust (Simak video di bawah ini).
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8v_c4HyDUxU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 **Mencari dataset melalui basis data saintifik**
 
-Anda juga dapat mencari dataset dengan menggunakan basis data saintifik, seperti Scopus dan Web of Science yang berbayar, atau kalau anda berminat bisa menggunakan yang gratis seperti [Dimensions](app.dimensions.ai) dan [Lens](lens.org). Anda bisa mengaktifkan filter dataset, kemudian bidang ilmu, selanjutnya anda persempit lagi dengan beberapa kata kunci, sebagai contoh adalah sebagai berikut.
+Anda juga dapat mencari dataset dengan menggunakan basis data saintifik, seperti Scopus dan Web of Science yang berbayar, atau kalau anda berminat bisa menggunakan yang gratis seperti [Dimensions](app.dimensions.ai) dan [Lens](lens.org). Anda bisa mengaktifkan filter dataset, kemudian bidang ilmu, selanjutnya anda persempit lagi dengan beberapa kata kunci, sebagai contoh adalah sebagai berikut. Data (`data_dimensions.csv` dan `data_lens.csv`) dapat diunduh di [Github/dasaptaerwin](https://github.com/dasaptaerwin/kalawabahmelanda/graphs/traffic).
+
+
 
 
 

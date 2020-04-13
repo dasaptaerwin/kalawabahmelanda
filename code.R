@@ -17,13 +17,22 @@ head(data_dim)
 
 
 # Scatter plot
+## making dimplot.pdf
 ggplot(data_dim, aes(x=Sum_data, y=Sum_pub)) + 
   geom_point() + 
-  labs(y='Works cited', x='Sum of datasets') +
-  geom_text(aes(label = Fields), size=2, vjust=-1, hjust=0)
-            
+  labs(y='Sum of publication', x='Sum of datasets') +
+  geom_text(aes(label = Fields), size=2, vjust=-1, hjust=0) +
+  theme_bw() +
+  ggtitle("Sum of datasets vs sum of publications (Dimensions database)")
 
-ggplot(data_lens, aes(x=Sum_data, y=Works_cited)) +
-  geom_point() 
+## making lensplot.pdf
+ggplot(data_lens, aes(x=Sum_data, y=Works_cited)) + 
+  geom_point() + 
+  labs(y='Works cited', x='Sum of datasets') +
+  geom_text(aes(label = Fields), size=2, vjust=-1, hjust=0) +
+  theme_bw() +
+  ggtitle("Sum of datasets vs Works cited (Lens database)")
+
+
 
 
