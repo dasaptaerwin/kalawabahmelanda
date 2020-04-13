@@ -137,9 +137,13 @@ Kalau anda sudah mencoba masuk ke repositori-repositori tersebut dan membuka sal
 
 Anda juga dapat mencari dataset dengan menggunakan basis data saintifik, seperti Scopus dan Web of Science yang berbayar, atau kalau anda berminat bisa menggunakan yang gratis seperti [Dimensions](app.dimensions.ai) dan [Lens](lens.org). Anda bisa mengaktifkan filter dataset, kemudian bidang ilmu, selanjutnya anda persempit lagi dengan beberapa kata kunci, sebagai contoh adalah sebagai berikut. Data (`data_dimensions.csv` dan `data_lens.csv`) dapat diunduh di [Github/dasaptaerwin](https://github.com/dasaptaerwin/kalawabahmelanda/graphs/traffic).
 
+Plot jumlah dataset  (`sum of datasets`) dan publikasi yang terkait dengan dataset tersebut (`sum of publications`) menurut Basis Data Dimensions
 
+![dimplot.pdf](dimplot.pdf)
 
+Plot jumlah dataset  (`sum of datasets`) dan publikasi yang menyitir dataset tersebut (`works cited`) menurut Basis Data Lens
 
+![lensplot.pdf](lensplot.pdf)
 
 **Pentingnya repositori**
 
