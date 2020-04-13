@@ -89,6 +89,11 @@ Saat ini telah banyak didengungkan ide tentang data citation. Singkatnya, data y
 Maksudnya adalah data seperti halnya makalah atau laporan, harus dapat disitasi. Agar itu dapat dilakukan, maka data perlu diunggah daring dengan metadata yang lengkap (data author, title, year, dst). Berkas yang diunggah harus dapat dibuka menggunakan perangkat yang umum dimiliki pengguna komputer. Data yang mudah ditemukan, mudah diakses, mudah dibuka dan dioperasikan, dengan metadata yang cukup lengkap, maka prinsip  (**Findable, Accessible, Interoperable, Reproducible**) dapat dipenuhi. Strategi mengelola data riset (research data management) dapat dibaca dalam slide di bawah ini.
 
 <iframe src="//www.slideshare.net/slideshow/embed_code/key/rgEdhw3zFi260i" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen> </iframe> <div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/d_erwin_irawan/a-light-introduction-to-research-data-management" title="A light Introduction to Research Data Management" target="_blank">A light Introduction to Research Data Management</a> </strong> from <strong><a href="https://www.slideshare.net/d_erwin_irawan" target="_blank">Dasapta Erwin Irawan</a></strong> </div>
+
+Presentasi tentang berbagi data oleh Peter Murray-Rust.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/LHkHGgYfaP0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Secara praktis, peneliti sebenarnya memiliki kewajiban untuk membuat datanya tersedia untuk publik, terutama untuk riset yang dibiayai dana publik. Ini sangat penting agar:
 
 - data dapat ditemukan untuk dipakai sebagai 
