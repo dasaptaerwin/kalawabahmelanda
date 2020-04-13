@@ -20,8 +20,8 @@ install.packages("htmlwidgets")
 library(htmlwidgets)
 
 # Loading data
-data_dim <- read.csv("datasets-dimensions.csv")
-data_lens <- read.csv("datasets-lens.csv")
+data_dim <- read.csv("data/datasets-dimensions.csv")
+data_lens <- read.csv("data/datasets-lens.csv")
 head(data_dim)
 
 
@@ -34,6 +34,8 @@ dimplot <- ggplot(data_dim, aes(x=Sum_data, y=Sum_pub)) +
   theme_bw() +
   ggtitle("Sum of datasets vs sum of publications (Dimensions database)")
 print(dimplot)
+plotlydim <- ggplotly(dimplot)
+htmlwidgets::saveWidget(as_widget(plotlydim), selfcontained = TRUE, file = "plots/dimplot.html")
 
 
 ## making lensplot.pdf
@@ -43,7 +45,9 @@ lensplot <- ggplot(data_lens, aes(x=Sum_data, y=Works_cited)) +
   geom_text(aes(label = Fields), size=2, vjust=-1, hjust=0) +
   theme_bw() +
   ggtitle("Sum of datasets vs Works cited (Lens database)")
-
+print(lensplot)
+plotlylens <- ggplotly(lensplot)
+htmlwidgets::saveWidget(as_widget(plotlylens), selfcontained = TRUE, file = "lensplot.html")
 
 
 
