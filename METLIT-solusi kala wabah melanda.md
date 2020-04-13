@@ -62,11 +62,9 @@ Selanjutnya saya akan bercerita tentang kreativitas mahasiswa, keterampilan yang
   - **analisis deskriptif**. Misal anda punya beberapa data kuantitatif dari beberapa sampel yang anda ukur. Anda sudah bisa membuat tabel atau grafik sederhana untuk menampilkan nilai rata-rata, maksimum dan minimum. Bila sampel anda bisa dikategorikan (misal kategori sampel air tanah, kategori sampel air sungai, kategori sampel air hujan), maka anda bisa tampilkan sampel-sampel itu dengan warna yang berbeda agar anda mudah melacaknya. Kalau anda fasih menggunakan Ms Excel jangan lupa untuk mengunduh [Ms Excel Analysis Toolpak](https://support.office.com/en-us/article/load-the-analysis-toolpak-in-excel-6a63e598-cd6d-42e3-9317-6b40ba1a66b4). Saya bukan pegawai Microsoft, tapi di era saya masih pakai Office (terakhir versi 2003), saya senang sekali dengan fitur Add-in. Kalau anda belum pernah menggunakannya, bisa mampir ke sini. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_yNxLFagKgw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 dan
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cGxUPcv0FRE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
   - **analisis korelasi**. Jika anda memungkinkan, anda bisa melakukan analisis korelasi. Buatlah grafik x-y (*scatter plot*) buat korelasi. Pilihlah korelasinya, apakah linear atau logaritmik. Jangan lupa untuk membedakan kategori sampelnya (misal jenis sampel air). Nah kalau anda masih senang dengan Ms Excel, maka anda akan punya kendala. Excel hanya mampu menampilkan label dari dari nilai sumbu x atau sumbu y saja. Misal anda ingin menampilkan label berupa nilai elevasi, anda tidak akan dapat melakukannya. Setelah beberapa tahun mengotak-atik ini, saya menemukan add in bernama [XY Chart Labeler](http://www.appspro.com/Utilities/ChartLabeler.htm) yang dapat diunduh gratis. Jadi anda bisa sedikit memodifikasi grafik x-y yang sudah dibuat. Di [Youtube](https://www.google.com/search?client=firefox-b-d&q=xy+chart+labeler+tutorial+youtube) juga ada beberapa tutorial menarik. 
   - Kalau anda **ingin keluar dari zona aman misal mencoba [R](https://cran.r-project.org/) atau [Python](https://anaconda.org/) akan lebih bagus lagi** (Catatan: saya tidak tahu kenapa dinamai dengan alfabet dan nama ular). Ada banyak tutorial pemrograman yang mudah diikuti. Biasanya tutorial-tutorial ini dilengkapi kode program yang tersimpan di [Github](github.com) atau media sejenis. Kodenya bisa langsung disalin (dengan legal karena lisensinya [MIT license](https://opensource.org/licenses/MIT)) kemudian dimodifikasi sedikit sesuai dengan kebutuhan anda. Pasti mengasyikkan belajar pemrograman saat masa isolasi ini. Prana Ugi dan saya juga menulis buku [Belajar Statistika dengan R](https://osf.io/preprints/inarxiv/ez7mg/) yang dapat diunduh bebas.
   - Analisis _time series_. Bila data anda berupa data _time series_, anda dapat melakukan beberapa analisis awal. Bila anda pengguna Excel tutorial ini ([Carleton](https://serc.carleton.edu/hydromodules/steps/td1.html), [Exceltable](https://exceltable.com/en/analyses-reports/time-series-analysis)) sepertinya cocok, bila anda pengguna R, maka [buku daring dari Rob J. Hyndman](https://otexts.com/fpp2/) ini bisa dicoba.  
@@ -88,7 +86,22 @@ Saat ini telah banyak didengungkan ide tentang data citation. Singkatnya, data y
 
 > What is data citation? Data citation refers to the practice of providing a reference to data in the same way as researchers routinely provide a bibliographic reference to outputs such as journal articles, reports and conference papers. Citing data is now recognised as one of the key practices leading to recognition of data as a primary research output ([ANDS.org](https://www.ands.org.au/working-with-data/citation-and-identifiers/data-citation)).
 
-**cite**
+Maksudnya adalah data seperti halnya makalah atau laporan, harus dapat disitasi. Agar itu dapat dilakukan, maka data perlu diunggah daring dengan metadata yang lengkap (data author, title, year, dst). Berkas yang diunggah harus dapat dibuka menggunakan perangkat yang umum dimiliki pengguna komputer. Data yang mudah ditemukan, mudah diakses, mudah dibuka dan dioperasikan, dengan metadata yang cukup lengkap, maka prinsip FAIR (**Findable, Accessible, Interoperable, Reproducible**) dapat dipenuhi.   
+
+Secara praktis, peneliti sebenarnya memiliki kewajiban untuk membuat datanya tersedia untuk publik, terutama untuk riset yang dibiayai dana publik. Ini sangat penting agar:
+
+- data dapat ditemukan untuk dipakai sebagai 
+- perangkat menguji riset
+- menambahnya sejalan dengan waktu dan digabungkan dengan data dari lokasi yang berbeda-beda
+- menganalisisnya dengan berbagai cara dan tujuan yang belum dilaksanakan oleh kreator data awal.
+
+Bila empat hal di atas terjadi, maka ilmu pengetahuan akan cepat berkembang.
+
+![Data citation menurut Ands](https://www.ands.org.au/__data/assets/image/0007/388852/data-citation-poster-medium.png)
+[Data citation menurut Ands](https://www.ands.org.au/__data/assets/image/0007/388852/data-citation-poster-medium.png)
+
+
+**Bacaan tambahan**
 
 - https://ropensci.github.io/reproducibility-guide/sections/introduction/
 - https://hdsr.mitpress.mit.edu/pub/jduhd7og
