@@ -27,10 +27,11 @@ head(data_dim)
 
 # Scatter plot
 ## making dimplot.pdf
+
 dimplot <- ggplot(data_dim, aes(x=Sum_data, y=Sum_pub)) + 
-  geom_point() + 
+  geom_point(aes(size = Ratio), alpha = 0.5) + 
   labs(y='Sum of publication', x='Sum of datasets') +
-  geom_text(aes(label = Fields), size=2, vjust=-1, hjust=0) +
+  geom_text(aes(label = Fields), size=2, vjust=2, hjust=0) +
   theme_bw() +
   ggtitle("Sum of datasets vs sum of publications (Dimensions database)")
 print(dimplot)
