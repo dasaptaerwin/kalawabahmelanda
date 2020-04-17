@@ -39,7 +39,7 @@ plotlydim <- ggplotly(dimplot)
 htmlwidgets::saveWidget(as_widget(plotlydim), selfcontained = TRUE, file = "dimplot.html")
 
 
-## making lensplot.pdf 2
+## making lensplot.pdf 3
 lensplot <- ggplot(data_lens, aes(x=Sum_data, y=Works_cited)) + 
   geom_point() + 
   labs(y='Works cited', x='Sum of datasets') +
